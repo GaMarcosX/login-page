@@ -19,7 +19,7 @@ section{
     position: relative;
     width: 400px;
     height: 450px;
-    background-color: #33333380;
+    background-color: rgba(10, 10, 10, 0.3);
     display: flex;
     justify-content: center;
     align-items: center;
